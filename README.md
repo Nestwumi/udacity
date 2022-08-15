@@ -1,6 +1,6 @@
 # Udacity Training Project 1
-##Dataset
-###Vehicle dataset
+## Dataset
+### Vehicle dataset
 
 This dataset contains information about used cars.
 
@@ -17,7 +17,7 @@ seller_type
 transmission
 Owner
 
-###Link
+### Link
 
 https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?resource=download
 
