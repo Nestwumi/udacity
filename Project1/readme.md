@@ -30,3 +30,13 @@ File description:
 cars.ipynb: verion 1 of notebook containing analysis
 cars-Copy1: verion 1 of notebook containing analysis
 Car details v3.csv: car data used for analysis
+
+Library used
+
+pandas
+numpy
+
+Summary of results
+Toyota can drive longest milages. Followed by Mahindra and Tata.
+CNG powered vehicles have lowest fuel costs
+Chevrolet gets sold most often/owner hates the most
