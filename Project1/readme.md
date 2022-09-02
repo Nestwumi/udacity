@@ -40,3 +40,6 @@ Summary of results
 Toyota can drive longest milages. Followed by Mahindra and Tata.
 CNG powered vehicles have lowest fuel costs
 Chevrolet gets sold most often/owner hates the most
+
+Blog
+For more analysis, please visit: https://medium.com/@mingtao.wu_7115/what-cars-are-keeps-what-cars-owners-hate-the-most-af66a50c3507
